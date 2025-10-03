@@ -1,6 +1,8 @@
-## KERBEROS HIVE IN DBEAVER - Windows
+# __KERBERED HIVE IN DBEAVER - Windows__
 
 ![Alt Text](https://github.com/MuhammadMukhlis220/Hive/blob/main/kerberos-hive-dbeaver/pic/title-picture.jpg)
+
+__Credit and thanks to__: [Arena Data](https://docs.arenadata.io/en/ADH/current/tutorials/security/kerberos/hive-dbeaver.html)
 
 Requirement
 1. Windows
